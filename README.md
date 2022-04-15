@@ -1,6 +1,9 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/faf1ab89-2398-4b44-a86b-fb9bd2816565/deploy-status)](https://app.netlify.com/sites/reactyt/deploys)
+
 # Deployed at
 
-https://reactyt.vercel.app/
+* https://reactyt.vercel.app/
+* https://reactyt.netlify.app/
 
 # Getting Started with Create React App
 
