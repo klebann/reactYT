@@ -2,7 +2,6 @@
 
 # Deployed at
 
-* https://reactyt.vercel.app/
 * https://reactyt.netlify.app/
 
 # Getting Started with Create React App
